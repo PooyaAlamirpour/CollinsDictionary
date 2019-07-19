@@ -1,0 +1,12 @@
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\CollinsDictionary.exe.config
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\CollinsDictionary.exe
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\CollinsDictionary.pdb
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.csprojResolveAssemblyReference.cache
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.Form1.resources
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.Properties.Resources.resources
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.csproj.GenerateResource.Cache
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.exe
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\obj\Debug\CollinsDictionary.pdb
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\HtmlAgilityPack.dll
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\HtmlAgilityPack.pdb
+D:\Partition G\Mine\CollinsDictionary\Source\CollinsDictionary\CollinsDictionary\bin\Debug\HtmlAgilityPack.xml
